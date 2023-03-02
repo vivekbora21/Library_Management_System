@@ -1,0 +1,13 @@
+101,Clean Code,Robert C. Martin,1,N/I,-
+103,Python Crash course,Eric mathews,1,N/I,-
+104,A Byte of Python,C.H.Swaroop,1,N/I,-
+105,Python programming,John M Zelle,1,N/I,-
+106,The Great Gatsby,F. Scott Fitzgerald,1,N/I,-
+107,The Lord of the Rings,J.R.R. Tolkien,1,N/I,-
+108,Life of Pie,Yann Martel,1,N/I,-
+109,The C++ Programming Language,Bjarne Stroustrup,1,N/I,-
+110,Let us C,Yashavant P Kanetkar,1,N/I,-
+111,Hacking The art of Exploitation,Jon Erickson,1,N/I,-
+112,Java Cookbook,Ian Darwin,1,N/I,-
+113,Database Management System,Ramon Mata-Toledo,1,N/I,-
+114,Android CookBook,Ian Darwin,1,N/I,-
